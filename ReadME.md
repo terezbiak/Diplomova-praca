@@ -20,5 +20,12 @@ Zoznam balíkov potrebný na spustenie kódu je definovaný v každom zdrojovom 
 - rozdelenia dát (1_priprava_a_rozdelenie_dat)
 - korelačnej a F-skóre analýzy (2_corr_a_f-skore_analyza)
 - modelovanie - obsahuje všetky modely, ktorými sme sa v tejto práci zaoberali, taktiež ich vyhodnotenie pomocou metrík (3_modelovanie)
-Dostupné da
+
+Dostupné datasety sa nachádzajú v priečinku 0_datasety:
+- allDST_omni.csv
+- omni_full.csv
+- test_omni.csv
+- train_omni.csv
+
+
 
