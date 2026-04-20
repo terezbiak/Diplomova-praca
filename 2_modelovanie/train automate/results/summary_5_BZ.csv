@@ -1,0 +1,2 @@
+y_col,horizon_hours,n_input,best_val_mae,best_val_loss,test_mae,test_loss,model_path,history_path,epochs_ran
+DST+5,5,48,8.201272964477539,187.9928741455078,5.77767276763916,83.42984008789062,models/DST+5_48H_BZ.keras,results/history_DST+5_48H_BZ.csv,44

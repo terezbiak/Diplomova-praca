@@ -1,0 +1,9 @@
+y_col,horizon_hours,n_input,best_val_mae,best_val_loss,test_mae,test_loss,model_path,history_path,epochs_ran
+DST+6,6,6,9.071318626403809,220.59458923339844,6.53096866607666,108.768310546875,models_transformer/DST+6_6H.keras,results_transformer/history_DST+6_6H.csv,72
+DST+6,6,12,8.998064994812012,217.111572265625,6.4080376625061035,108.47930145263672,models_transformer/DST+6_12H.keras,results_transformer/history_DST+6_12H.csv,46
+DST+6,6,18,8.884361267089844,213.89381408691406,6.356932640075684,106.9371109008789,models_transformer/DST+6_18H.keras,results_transformer/history_DST+6_18H.csv,90
+DST+6,6,24,8.861896514892578,215.2991943359375,6.332479476928711,105.98856353759766,models_transformer/DST+6_24H.keras,results_transformer/history_DST+6_24H.csv,65
+DST+6,6,30,8.859545707702637,215.76205444335938,6.352182865142822,105.0172348022461,models_transformer/DST+6_30H.keras,results_transformer/history_DST+6_30H.csv,71
+DST+6,6,36,8.904831886291504,214.274658203125,6.396447658538818,106.21477508544922,models_transformer/DST+6_36H.keras,results_transformer/history_DST+6_36H.csv,54
+DST+6,6,42,8.829124450683594,213.68203735351562,6.329287528991699,102.73703002929688,models_transformer/DST+6_42H.keras,results_transformer/history_DST+6_42H.csv,84
+DST+6,6,48,8.84528636932373,217.04908752441406,6.328303337097168,103.50330352783203,models_transformer/DST+6_48H.keras,results_transformer/history_DST+6_48H.csv,100

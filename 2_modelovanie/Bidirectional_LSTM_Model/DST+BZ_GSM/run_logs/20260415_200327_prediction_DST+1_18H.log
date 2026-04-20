@@ -1,0 +1,8 @@
+Notebook: ./prediction_DST+1_18H.ipynb
+Expected output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_18H.csv
+Start: 2026-04-15T20:11:51.586720
+
+[NbConvertApp] Converting notebook ./prediction_DST+1_18H.ipynb to notebook
+2026-04-15 20:11:54.362669: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[NbConvertApp] Writing 668019 bytes to prediction_DST+1_18H.ipynb

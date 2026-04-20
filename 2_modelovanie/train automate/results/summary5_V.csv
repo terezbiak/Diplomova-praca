@@ -1,0 +1,4 @@
+y_col,horizon_hours,n_input,best_val_mae,best_val_loss,test_mae,test_loss,model_path,history_path,epochs_ran
+DST+5,5,36,8.342296600341797,188.25057983398438,6.001553535461426,91.18010711669922,models/DST+5_36H_V.keras,results/history_DST+5_36H_V.csv,60
+DST+5,5,42,8.231512069702148,182.97607421875,6.0241923332214355,89.54598236083984,models/DST+5_42H_V.keras,results/history_DST+5_42H_V.csv,86
+DST+5,5,48,8.211526870727539,188.13389587402344,5.9052886962890625,88.79742431640625,models/DST+5_48H_V.keras,results/history_DST+5_48H_V.csv,66

@@ -1,0 +1,249 @@
+2026-04-16 07:42:07,868 | INFO | Začínam batch spúšťanie notebookov.
+2026-04-16 07:42:07,869 | INFO | Počet nájdených notebookov: 48
+2026-04-16 07:42:07,869 | INFO | Hlavný log: run_logs/run_all_20260416_074207.log
+2026-04-16 07:42:07,869 | INFO | Počet úspešných notebookov z predošlého logu: 0
+2026-04-16 07:42:07,869 | INFO | [1/48] Spúšťam notebook: ./prediction_DST+1_12H.ipynb
+2026-04-16 07:42:07,869 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_12H.log
+2026-04-16 07:42:07,870 | INFO | [1/48] Pokus 1/4: prediction_DST+1_12H.ipynb
+2026-04-16 07:50:09,559 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_12H.ipynb
+2026-04-16 07:50:09,559 | INFO | Trvanie: 0:08:01.689117
+2026-04-16 07:50:09,560 | INFO | [2/48] Spúšťam notebook: ./prediction_DST+1_18H.ipynb
+2026-04-16 07:50:09,560 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_18H.log
+2026-04-16 07:50:09,562 | INFO | [2/48] Pokus 1/4: prediction_DST+1_18H.ipynb
+2026-04-16 07:58:31,445 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_18H.ipynb
+2026-04-16 07:58:31,446 | INFO | Trvanie: 0:08:21.884917
+2026-04-16 07:58:31,446 | INFO | [3/48] Spúšťam notebook: ./prediction_DST+1_24H.ipynb
+2026-04-16 07:58:31,446 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_24H.log
+2026-04-16 07:58:31,449 | INFO | [3/48] Pokus 1/4: prediction_DST+1_24H.ipynb
+2026-04-16 08:08:35,083 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_24H.ipynb
+2026-04-16 08:08:35,084 | INFO | Trvanie: 0:10:03.636260
+2026-04-16 08:08:35,084 | INFO | [4/48] Spúšťam notebook: ./prediction_DST+1_30H.ipynb
+2026-04-16 08:08:35,084 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_30H.log
+2026-04-16 08:08:35,087 | INFO | [4/48] Pokus 1/4: prediction_DST+1_30H.ipynb
+2026-04-16 08:18:17,893 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_30H.ipynb
+2026-04-16 08:18:17,893 | INFO | Trvanie: 0:09:42.807611
+2026-04-16 08:18:17,893 | INFO | [5/48] Spúšťam notebook: ./prediction_DST+1_36H.ipynb
+2026-04-16 08:18:17,894 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_36H.log
+2026-04-16 08:18:17,896 | INFO | [5/48] Pokus 1/4: prediction_DST+1_36H.ipynb
+2026-04-16 08:28:16,082 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_36H.ipynb
+2026-04-16 08:28:16,083 | INFO | Trvanie: 0:09:58.187820
+2026-04-16 08:28:16,083 | INFO | [6/48] Spúšťam notebook: ./prediction_DST+1_42H.ipynb
+2026-04-16 08:28:16,083 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_42H.log
+2026-04-16 08:28:16,085 | INFO | [6/48] Pokus 1/4: prediction_DST+1_42H.ipynb
+2026-04-16 08:38:16,165 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_42H.ipynb
+2026-04-16 08:38:16,165 | INFO | Trvanie: 0:10:00.081081
+2026-04-16 08:38:16,166 | INFO | [7/48] Spúšťam notebook: ./prediction_DST+1_48H.ipynb
+2026-04-16 08:38:16,166 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_48H.log
+2026-04-16 08:38:16,168 | INFO | [7/48] Pokus 1/4: prediction_DST+1_48H.ipynb
+2026-04-16 08:49:18,351 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_48H.ipynb
+2026-04-16 08:49:18,351 | INFO | Trvanie: 0:11:02.184186
+2026-04-16 08:49:18,352 | INFO | [8/48] Spúšťam notebook: ./prediction_DST+1_6H.ipynb
+2026-04-16 08:49:18,352 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+1_6H.log
+2026-04-16 08:49:18,354 | INFO | [8/48] Pokus 1/4: prediction_DST+1_6H.ipynb
+2026-04-16 08:57:06,440 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_6H.ipynb
+2026-04-16 08:57:06,440 | INFO | Trvanie: 0:07:48.087627
+2026-04-16 08:57:06,441 | INFO | [9/48] Spúšťam notebook: ./prediction_DST+2_12H.ipynb
+2026-04-16 08:57:06,441 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_12H.log
+2026-04-16 08:57:06,442 | INFO | [9/48] Pokus 1/4: prediction_DST+2_12H.ipynb
+2026-04-16 09:05:40,692 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_12H.ipynb
+2026-04-16 09:05:40,693 | INFO | Trvanie: 0:08:34.251328
+2026-04-16 09:05:40,693 | INFO | [10/48] Spúšťam notebook: ./prediction_DST+2_18H.ipynb
+2026-04-16 09:05:40,694 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_18H.log
+2026-04-16 09:05:40,696 | INFO | [10/48] Pokus 1/4: prediction_DST+2_18H.ipynb
+2026-04-16 09:14:10,409 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_18H.ipynb
+2026-04-16 09:14:10,409 | INFO | Trvanie: 0:08:29.714548
+2026-04-16 09:14:10,410 | INFO | [11/48] Spúšťam notebook: ./prediction_DST+2_24H.ipynb
+2026-04-16 09:14:10,410 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_24H.log
+2026-04-16 09:14:10,412 | INFO | [11/48] Pokus 1/4: prediction_DST+2_24H.ipynb
+2026-04-16 09:22:56,398 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_24H.ipynb
+2026-04-16 09:22:56,398 | INFO | Trvanie: 0:08:45.987390
+2026-04-16 09:22:56,398 | INFO | [12/48] Spúšťam notebook: ./prediction_DST+2_30H.ipynb
+2026-04-16 09:22:56,399 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_30H.log
+2026-04-16 09:22:56,400 | INFO | [12/48] Pokus 1/4: prediction_DST+2_30H.ipynb
+2026-04-16 09:32:24,458 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_30H.ipynb
+2026-04-16 09:32:24,458 | INFO | Trvanie: 0:09:28.058588
+2026-04-16 09:32:24,458 | INFO | [13/48] Spúšťam notebook: ./prediction_DST+2_36H.ipynb
+2026-04-16 09:32:24,459 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_36H.log
+2026-04-16 09:32:24,461 | INFO | [13/48] Pokus 1/4: prediction_DST+2_36H.ipynb
+2026-04-16 09:42:28,485 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_36H.ipynb
+2026-04-16 09:42:28,485 | INFO | Trvanie: 0:10:04.025275
+2026-04-16 09:42:28,486 | INFO | [14/48] Spúšťam notebook: ./prediction_DST+2_42H.ipynb
+2026-04-16 09:42:28,486 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_42H.log
+2026-04-16 09:42:28,488 | INFO | [14/48] Pokus 1/4: prediction_DST+2_42H.ipynb
+2026-04-16 09:52:34,424 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_42H.ipynb
+2026-04-16 09:52:34,425 | INFO | Trvanie: 0:10:05.937556
+2026-04-16 09:52:34,425 | INFO | [15/48] Spúšťam notebook: ./prediction_DST+2_48H.ipynb
+2026-04-16 09:52:34,425 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_48H.log
+2026-04-16 09:52:34,428 | INFO | [15/48] Pokus 1/4: prediction_DST+2_48H.ipynb
+2026-04-16 10:03:27,102 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_48H.ipynb
+2026-04-16 10:03:27,102 | INFO | Trvanie: 0:10:52.675768
+2026-04-16 10:03:27,102 | INFO | [16/48] Spúšťam notebook: ./prediction_DST+2_6H.ipynb
+2026-04-16 10:03:27,103 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+2_6H.log
+2026-04-16 10:03:27,105 | INFO | [16/48] Pokus 1/4: prediction_DST+2_6H.ipynb
+2026-04-16 10:10:57,216 | INFO | Notebook úspešne dokončený: ./prediction_DST+2_6H.ipynb
+2026-04-16 10:10:57,216 | INFO | Trvanie: 0:07:30.112742
+2026-04-16 10:10:57,216 | INFO | [17/48] Spúšťam notebook: ./prediction_DST+3_12H.ipynb
+2026-04-16 10:10:57,217 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_12H.log
+2026-04-16 10:10:57,218 | INFO | [17/48] Pokus 1/4: prediction_DST+3_12H.ipynb
+2026-04-16 10:19:04,410 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_12H.ipynb
+2026-04-16 10:19:04,411 | INFO | Trvanie: 0:08:07.193287
+2026-04-16 10:19:04,411 | INFO | [18/48] Spúšťam notebook: ./prediction_DST+3_18H.ipynb
+2026-04-16 10:19:04,411 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_18H.log
+2026-04-16 10:19:04,414 | INFO | [18/48] Pokus 1/4: prediction_DST+3_18H.ipynb
+2026-04-16 10:27:24,919 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_18H.ipynb
+2026-04-16 10:27:24,920 | INFO | Trvanie: 0:08:20.507180
+2026-04-16 10:27:24,920 | INFO | [19/48] Spúšťam notebook: ./prediction_DST+3_24H.ipynb
+2026-04-16 10:27:24,921 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_24H.log
+2026-04-16 10:27:24,923 | INFO | [19/48] Pokus 1/4: prediction_DST+3_24H.ipynb
+2026-04-16 10:36:31,322 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_24H.ipynb
+2026-04-16 10:36:31,323 | INFO | Trvanie: 0:09:06.401336
+2026-04-16 10:36:31,323 | INFO | [20/48] Spúšťam notebook: ./prediction_DST+3_30H.ipynb
+2026-04-16 10:36:31,324 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_30H.log
+2026-04-16 10:36:31,326 | INFO | [20/48] Pokus 1/4: prediction_DST+3_30H.ipynb
+2026-04-16 10:45:45,493 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_30H.ipynb
+2026-04-16 10:45:45,494 | INFO | Trvanie: 0:09:14.168946
+2026-04-16 10:45:45,494 | INFO | [21/48] Spúšťam notebook: ./prediction_DST+3_36H.ipynb
+2026-04-16 10:45:45,494 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_36H.log
+2026-04-16 10:45:45,497 | INFO | [21/48] Pokus 1/4: prediction_DST+3_36H.ipynb
+2026-04-16 10:55:37,883 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_36H.ipynb
+2026-04-16 10:55:37,884 | INFO | Trvanie: 0:09:52.388471
+2026-04-16 10:55:37,884 | INFO | [22/48] Spúšťam notebook: ./prediction_DST+3_42H.ipynb
+2026-04-16 10:55:37,885 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_42H.log
+2026-04-16 10:55:37,887 | INFO | [22/48] Pokus 1/4: prediction_DST+3_42H.ipynb
+2026-04-16 11:05:40,174 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_42H.ipynb
+2026-04-16 11:05:40,175 | INFO | Trvanie: 0:10:02.289199
+2026-04-16 11:05:40,175 | INFO | [23/48] Spúšťam notebook: ./prediction_DST+3_48H.ipynb
+2026-04-16 11:05:40,176 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_48H.log
+2026-04-16 11:05:40,178 | INFO | [23/48] Pokus 1/4: prediction_DST+3_48H.ipynb
+2026-04-16 11:16:27,202 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_48H.ipynb
+2026-04-16 11:16:27,202 | INFO | Trvanie: 0:10:47.025726
+2026-04-16 11:16:27,203 | INFO | [24/48] Spúšťam notebook: ./prediction_DST+3_6H.ipynb
+2026-04-16 11:16:27,203 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+3_6H.log
+2026-04-16 11:16:27,205 | INFO | [24/48] Pokus 1/4: prediction_DST+3_6H.ipynb
+2026-04-16 11:24:13,945 | INFO | Notebook úspešne dokončený: ./prediction_DST+3_6H.ipynb
+2026-04-16 11:24:13,945 | INFO | Trvanie: 0:07:46.741216
+2026-04-16 11:24:13,946 | INFO | [25/48] Spúšťam notebook: ./prediction_DST+4_12H.ipynb
+2026-04-16 11:24:13,946 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_12H.log
+2026-04-16 11:24:13,949 | INFO | [25/48] Pokus 1/4: prediction_DST+4_12H.ipynb
+2026-04-16 11:32:28,220 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_12H.ipynb
+2026-04-16 11:32:28,220 | INFO | Trvanie: 0:08:14.273226
+2026-04-16 11:32:28,220 | INFO | [26/48] Spúšťam notebook: ./prediction_DST+4_18H.ipynb
+2026-04-16 11:32:28,221 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_18H.log
+2026-04-16 11:32:28,223 | INFO | [26/48] Pokus 1/4: prediction_DST+4_18H.ipynb
+2026-04-16 11:41:18,455 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_18H.ipynb
+2026-04-16 11:41:18,455 | INFO | Trvanie: 0:08:50.233412
+2026-04-16 11:41:18,456 | INFO | [27/48] Spúšťam notebook: ./prediction_DST+4_24H.ipynb
+2026-04-16 11:41:18,456 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_24H.log
+2026-04-16 11:41:18,458 | INFO | [27/48] Pokus 1/4: prediction_DST+4_24H.ipynb
+2026-04-16 11:50:13,608 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_24H.ipynb
+2026-04-16 11:50:13,609 | INFO | Trvanie: 0:08:55.151865
+2026-04-16 11:50:13,609 | INFO | [28/48] Spúšťam notebook: ./prediction_DST+4_30H.ipynb
+2026-04-16 11:50:13,610 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_30H.log
+2026-04-16 11:50:13,612 | INFO | [28/48] Pokus 1/4: prediction_DST+4_30H.ipynb
+2026-04-16 11:59:42,511 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_30H.ipynb
+2026-04-16 11:59:42,512 | INFO | Trvanie: 0:09:28.901365
+2026-04-16 11:59:42,512 | INFO | [29/48] Spúšťam notebook: ./prediction_DST+4_36H.ipynb
+2026-04-16 11:59:42,513 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_36H.log
+2026-04-16 11:59:42,515 | INFO | [29/48] Pokus 1/4: prediction_DST+4_36H.ipynb
+2026-04-16 12:09:13,880 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_36H.ipynb
+2026-04-16 12:09:13,880 | INFO | Trvanie: 0:09:31.366610
+2026-04-16 12:09:13,880 | INFO | [30/48] Spúšťam notebook: ./prediction_DST+4_42H.ipynb
+2026-04-16 12:09:13,881 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_42H.log
+2026-04-16 12:09:13,883 | INFO | [30/48] Pokus 1/4: prediction_DST+4_42H.ipynb
+2026-04-16 12:19:20,854 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_42H.ipynb
+2026-04-16 12:19:20,854 | INFO | Trvanie: 0:10:06.972876
+2026-04-16 12:19:20,855 | INFO | [31/48] Spúšťam notebook: ./prediction_DST+4_48H.ipynb
+2026-04-16 12:19:20,855 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_48H.log
+2026-04-16 12:19:20,858 | INFO | [31/48] Pokus 1/4: prediction_DST+4_48H.ipynb
+2026-04-16 12:30:03,255 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_48H.ipynb
+2026-04-16 12:30:03,256 | INFO | Trvanie: 0:10:42.399771
+2026-04-16 12:30:03,256 | INFO | [32/48] Spúšťam notebook: ./prediction_DST+4_6H.ipynb
+2026-04-16 12:30:03,257 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+4_6H.log
+2026-04-16 12:30:03,259 | INFO | [32/48] Pokus 1/4: prediction_DST+4_6H.ipynb
+2026-04-16 12:37:46,547 | INFO | Notebook úspešne dokončený: ./prediction_DST+4_6H.ipynb
+2026-04-16 12:37:46,548 | INFO | Trvanie: 0:07:43.290012
+2026-04-16 12:37:46,548 | INFO | [33/48] Spúšťam notebook: ./prediction_DST+5_12H.ipynb
+2026-04-16 12:37:46,548 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_12H.log
+2026-04-16 12:37:46,550 | INFO | [33/48] Pokus 1/4: prediction_DST+5_12H.ipynb
+2026-04-16 12:46:03,740 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_12H.ipynb
+2026-04-16 12:46:03,740 | INFO | Trvanie: 0:08:17.191164
+2026-04-16 12:46:03,741 | INFO | [34/48] Spúšťam notebook: ./prediction_DST+5_18H.ipynb
+2026-04-16 12:46:03,741 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_18H.log
+2026-04-16 12:46:03,743 | INFO | [34/48] Pokus 1/4: prediction_DST+5_18H.ipynb
+2026-04-16 12:54:41,541 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_18H.ipynb
+2026-04-16 12:54:41,541 | INFO | Trvanie: 0:08:37.799360
+2026-04-16 12:54:41,542 | INFO | [35/48] Spúšťam notebook: ./prediction_DST+5_24H.ipynb
+2026-04-16 12:54:41,542 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_24H.log
+2026-04-16 12:54:41,544 | INFO | [35/48] Pokus 1/4: prediction_DST+5_24H.ipynb
+2026-04-16 13:03:40,132 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_24H.ipynb
+2026-04-16 13:03:40,133 | INFO | Trvanie: 0:08:58.590112
+2026-04-16 13:03:40,133 | INFO | [36/48] Spúšťam notebook: ./prediction_DST+5_30H.ipynb
+2026-04-16 13:03:40,134 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_30H.log
+2026-04-16 13:03:40,136 | INFO | [36/48] Pokus 1/4: prediction_DST+5_30H.ipynb
+2026-04-16 13:12:58,355 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_30H.ipynb
+2026-04-16 13:12:58,356 | INFO | Trvanie: 0:09:18.220949
+2026-04-16 13:12:58,358 | INFO | [37/48] Spúšťam notebook: ./prediction_DST+5_36H.ipynb
+2026-04-16 13:12:58,359 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_36H.log
+2026-04-16 13:12:58,361 | INFO | [37/48] Pokus 1/4: prediction_DST+5_36H.ipynb
+2026-04-16 13:22:43,731 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_36H.ipynb
+2026-04-16 13:22:43,732 | INFO | Trvanie: 0:09:45.371586
+2026-04-16 13:22:43,732 | INFO | [38/48] Spúšťam notebook: ./prediction_DST+5_42H.ipynb
+2026-04-16 13:22:43,733 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_42H.log
+2026-04-16 13:22:43,735 | INFO | [38/48] Pokus 1/4: prediction_DST+5_42H.ipynb
+2026-04-16 13:32:43,103 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_42H.ipynb
+2026-04-16 13:32:43,104 | INFO | Trvanie: 0:09:59.370302
+2026-04-16 13:32:43,104 | INFO | [39/48] Spúšťam notebook: ./prediction_DST+5_48H.ipynb
+2026-04-16 13:32:43,105 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_48H.log
+2026-04-16 13:32:43,107 | INFO | [39/48] Pokus 1/4: prediction_DST+5_48H.ipynb
+2026-04-16 13:43:17,552 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_48H.ipynb
+2026-04-16 13:43:17,553 | INFO | Trvanie: 0:10:34.447012
+2026-04-16 13:43:17,553 | INFO | [40/48] Spúšťam notebook: ./prediction_DST+5_6H.ipynb
+2026-04-16 13:43:17,553 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+5_6H.log
+2026-04-16 13:43:17,555 | INFO | [40/48] Pokus 1/4: prediction_DST+5_6H.ipynb
+2026-04-16 13:51:10,168 | INFO | Notebook úspešne dokončený: ./prediction_DST+5_6H.ipynb
+2026-04-16 13:51:10,168 | INFO | Trvanie: 0:07:52.614093
+2026-04-16 13:51:10,169 | INFO | [41/48] Spúšťam notebook: ./prediction_DST+6_12H.ipynb
+2026-04-16 13:51:10,169 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_12H.log
+2026-04-16 13:51:10,172 | INFO | [41/48] Pokus 1/4: prediction_DST+6_12H.ipynb
+2026-04-16 13:59:23,720 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_12H.ipynb
+2026-04-16 13:59:23,720 | INFO | Trvanie: 0:08:13.550148
+2026-04-16 13:59:23,720 | INFO | [42/48] Spúšťam notebook: ./prediction_DST+6_18H.ipynb
+2026-04-16 13:59:23,721 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_18H.log
+2026-04-16 13:59:23,723 | INFO | [42/48] Pokus 1/4: prediction_DST+6_18H.ipynb
+2026-04-16 14:08:00,306 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_18H.ipynb
+2026-04-16 14:08:00,307 | INFO | Trvanie: 0:08:36.585174
+2026-04-16 14:08:00,307 | INFO | [43/48] Spúšťam notebook: ./prediction_DST+6_24H.ipynb
+2026-04-16 14:08:00,308 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_24H.log
+2026-04-16 14:08:00,310 | INFO | [43/48] Pokus 1/4: prediction_DST+6_24H.ipynb
+2026-04-16 14:16:59,442 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_24H.ipynb
+2026-04-16 14:16:59,442 | INFO | Trvanie: 0:08:59.134007
+2026-04-16 14:16:59,443 | INFO | [44/48] Spúšťam notebook: ./prediction_DST+6_30H.ipynb
+2026-04-16 14:16:59,443 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_30H.log
+2026-04-16 14:16:59,445 | INFO | [44/48] Pokus 1/4: prediction_DST+6_30H.ipynb
+2026-04-16 14:26:53,596 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_30H.ipynb
+2026-04-16 14:26:53,596 | INFO | Trvanie: 0:09:54.152122
+2026-04-16 14:26:53,596 | INFO | [45/48] Spúšťam notebook: ./prediction_DST+6_36H.ipynb
+2026-04-16 14:26:53,597 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_36H.log
+2026-04-16 14:26:53,598 | INFO | [45/48] Pokus 1/4: prediction_DST+6_36H.ipynb
+2026-04-16 14:36:51,028 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_36H.ipynb
+2026-04-16 14:36:51,028 | INFO | Trvanie: 0:09:57.430847
+2026-04-16 14:36:51,028 | INFO | [46/48] Spúšťam notebook: ./prediction_DST+6_42H.ipynb
+2026-04-16 14:36:51,029 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_42H.log
+2026-04-16 14:36:51,031 | INFO | [46/48] Pokus 1/4: prediction_DST+6_42H.ipynb
+2026-04-16 14:47:16,551 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_42H.ipynb
+2026-04-16 14:47:16,552 | INFO | Trvanie: 0:10:25.522085
+2026-04-16 14:47:16,552 | INFO | [47/48] Spúšťam notebook: ./prediction_DST+6_48H.ipynb
+2026-04-16 14:47:16,552 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_48H.log
+2026-04-16 14:47:16,554 | INFO | [47/48] Pokus 1/4: prediction_DST+6_48H.ipynb
+2026-04-16 14:57:55,488 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_48H.ipynb
+2026-04-16 14:57:55,488 | INFO | Trvanie: 0:10:38.935241
+2026-04-16 14:57:55,489 | INFO | [48/48] Spúšťam notebook: ./prediction_DST+6_6H.ipynb
+2026-04-16 14:57:55,489 | INFO | Log notebooku: run_logs/20260416_074207_prediction_DST+6_6H.log
+2026-04-16 14:57:55,492 | INFO | [48/48] Pokus 1/4: prediction_DST+6_6H.ipynb
+2026-04-16 15:05:41,110 | INFO | Notebook úspešne dokončený: ./prediction_DST+6_6H.ipynb
+2026-04-16 15:05:41,111 | INFO | Trvanie: 0:07:45.620703
+2026-04-16 15:05:41,111 | INFO | === ZHRNUTIE ===
+2026-04-16 15:05:41,111 | INFO | Spustené notebooky: 48
+2026-04-16 15:05:41,112 | INFO | Preskočené notebooky: 0
+2026-04-16 15:05:41,112 | INFO | Zlyhané notebooky: 0
+2026-04-16 15:05:41,113 | INFO | Batch spúšťanie ukončené bez chýb.

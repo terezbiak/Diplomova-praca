@@ -1,0 +1,7 @@
+nohup: ignoring input
+2026-04-15 20:03:27,402 | INFO | Začínam batch spúšťanie notebookov.
+2026-04-15 20:03:27,402 | INFO | Počet nájdených notebookov: 48
+2026-04-15 20:03:27,402 | INFO | Hlavný log: run_logs/run_all_20260415_200327.log
+2026-04-15 20:03:27,403 | INFO | [1/48] Spúšťam notebook: ./prediction_DST+1_12H.ipynb
+2026-04-15 20:03:27,403 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_12H.csv
+2026-04-15 20:03:27,403 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_12H.log

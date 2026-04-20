@@ -1,0 +1,10 @@
+================================================================================
+ATTEMPT 1
+Notebook: ./prediction_DST+5_6H.ipynb
+Start: 2026-04-16T22:04:50.390547
+================================================================================
+
+[NbConvertApp] Converting notebook ./prediction_DST+5_6H.ipynb to notebook
+2026-04-16 22:04:52.835656: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[NbConvertApp] Writing 415482 bytes to prediction_DST+5_6H.ipynb

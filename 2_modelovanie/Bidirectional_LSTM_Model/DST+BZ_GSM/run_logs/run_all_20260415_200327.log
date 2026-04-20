@@ -1,0 +1,334 @@
+2026-04-15 20:03:27,402 | INFO | Začínam batch spúšťanie notebookov.
+2026-04-15 20:03:27,402 | INFO | Počet nájdených notebookov: 48
+2026-04-15 20:03:27,402 | INFO | Hlavný log: run_logs/run_all_20260415_200327.log
+2026-04-15 20:03:27,403 | INFO | [1/48] Spúšťam notebook: ./prediction_DST+1_12H.ipynb
+2026-04-15 20:03:27,403 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_12H.csv
+2026-04-15 20:03:27,403 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_12H.log
+2026-04-15 20:11:51,584 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_12H.ipynb
+2026-04-15 20:11:51,585 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_12H.csv
+2026-04-15 20:11:51,585 | INFO | Trvanie: 0:08:24.174165
+2026-04-15 20:11:51,586 | INFO | [2/48] Spúšťam notebook: ./prediction_DST+1_18H.ipynb
+2026-04-15 20:11:51,586 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_18H.csv
+2026-04-15 20:11:51,586 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_18H.log
+2026-04-15 20:20:24,171 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_18H.ipynb
+2026-04-15 20:20:24,172 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_18H.csv
+2026-04-15 20:20:24,172 | INFO | Trvanie: 0:08:32.575796
+2026-04-15 20:20:24,173 | INFO | [3/48] Spúšťam notebook: ./prediction_DST+1_24H.ipynb
+2026-04-15 20:20:24,173 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_24H.csv
+2026-04-15 20:20:24,173 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_24H.log
+2026-04-15 20:30:39,540 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_24H.ipynb
+2026-04-15 20:30:39,541 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_24H.csv
+2026-04-15 20:30:39,541 | INFO | Trvanie: 0:10:15.357303
+2026-04-15 20:30:39,542 | INFO | [4/48] Spúšťam notebook: ./prediction_DST+1_30H.ipynb
+2026-04-15 20:30:39,542 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_30H.csv
+2026-04-15 20:30:39,543 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_30H.log
+2026-04-15 20:40:35,930 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_30H.ipynb
+2026-04-15 20:40:35,930 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_30H.csv
+2026-04-15 20:40:35,931 | INFO | Trvanie: 0:09:56.381328
+2026-04-15 20:40:35,931 | INFO | [5/48] Spúšťam notebook: ./prediction_DST+1_36H.ipynb
+2026-04-15 20:40:35,931 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_36H.csv
+2026-04-15 20:40:35,931 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_36H.log
+2026-04-15 20:50:44,519 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_36H.ipynb
+2026-04-15 20:50:44,519 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_36H.csv
+2026-04-15 20:50:44,519 | INFO | Trvanie: 0:10:08.578125
+2026-04-15 20:50:44,520 | INFO | [6/48] Spúšťam notebook: ./prediction_DST+1_42H.ipynb
+2026-04-15 20:50:44,521 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_42H.csv
+2026-04-15 20:50:44,521 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_42H.log
+2026-04-15 21:00:59,492 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_42H.ipynb
+2026-04-15 21:00:59,492 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_42H.csv
+2026-04-15 21:00:59,493 | INFO | Trvanie: 0:10:14.961947
+2026-04-15 21:00:59,493 | INFO | [7/48] Spúšťam notebook: ./prediction_DST+1_48H.ipynb
+2026-04-15 21:00:59,494 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_48H.csv
+2026-04-15 21:00:59,494 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_48H.log
+2026-04-15 21:12:19,846 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_48H.ipynb
+2026-04-15 21:12:19,846 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_48H.csv
+2026-04-15 21:12:19,846 | INFO | Trvanie: 0:11:20.342062
+2026-04-15 21:12:19,847 | INFO | [8/48] Spúšťam notebook: ./prediction_DST+1_6H.ipynb
+2026-04-15 21:12:19,848 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_6H.csv
+2026-04-15 21:12:19,848 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+1_6H.log
+2026-04-15 21:20:20,241 | INFO | Notebook úspešne dokončený: ./prediction_DST+1_6H.ipynb
+2026-04-15 21:20:20,242 | INFO | Výstup vytvorený: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+1_LSTM_6H.csv
+2026-04-15 21:20:20,242 | INFO | Trvanie: 0:08:00.384162
+2026-04-15 21:20:20,243 | INFO | [9/48] Spúšťam notebook: ./prediction_DST+2_12H.ipynb
+2026-04-15 21:20:20,243 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_12H.csv
+2026-04-15 21:20:20,244 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_12H.log
+2026-04-15 21:28:01,472 | ERROR | Notebook zlyhal: ./prediction_DST+2_12H.ipynb
+2026-04-15 21:28:01,472 | ERROR | Návratový kód: 1
+2026-04-15 21:28:01,473 | ERROR | Trvanie: 0:07:41.227859
+2026-04-15 21:28:01,474 | INFO | [10/48] Spúšťam notebook: ./prediction_DST+2_18H.ipynb
+2026-04-15 21:28:01,474 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_18H.csv
+2026-04-15 21:28:01,475 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_18H.log
+2026-04-15 21:35:46,465 | ERROR | Notebook zlyhal: ./prediction_DST+2_18H.ipynb
+2026-04-15 21:35:46,465 | ERROR | Návratový kód: 1
+2026-04-15 21:35:46,465 | ERROR | Trvanie: 0:07:44.989712
+2026-04-15 21:35:46,467 | INFO | [11/48] Spúšťam notebook: ./prediction_DST+2_24H.ipynb
+2026-04-15 21:35:46,468 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_24H.csv
+2026-04-15 21:35:46,468 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_24H.log
+2026-04-15 21:43:26,644 | ERROR | Notebook zlyhal: ./prediction_DST+2_24H.ipynb
+2026-04-15 21:43:26,645 | ERROR | Návratový kód: 1
+2026-04-15 21:43:26,645 | ERROR | Trvanie: 0:07:40.175711
+2026-04-15 21:43:26,647 | INFO | [12/48] Spúšťam notebook: ./prediction_DST+2_30H.ipynb
+2026-04-15 21:43:26,647 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_30H.csv
+2026-04-15 21:43:26,647 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_30H.log
+2026-04-15 21:51:12,383 | ERROR | Notebook zlyhal: ./prediction_DST+2_30H.ipynb
+2026-04-15 21:51:12,383 | ERROR | Návratový kód: 1
+2026-04-15 21:51:12,383 | ERROR | Trvanie: 0:07:45.734794
+2026-04-15 21:51:12,385 | INFO | [13/48] Spúšťam notebook: ./prediction_DST+2_36H.ipynb
+2026-04-15 21:51:12,385 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_36H.csv
+2026-04-15 21:51:12,385 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_36H.log
+2026-04-15 21:58:55,543 | ERROR | Notebook zlyhal: ./prediction_DST+2_36H.ipynb
+2026-04-15 21:58:55,544 | ERROR | Návratový kód: 1
+2026-04-15 21:58:55,544 | ERROR | Trvanie: 0:07:43.157622
+2026-04-15 21:58:55,546 | INFO | [14/48] Spúšťam notebook: ./prediction_DST+2_42H.ipynb
+2026-04-15 21:58:55,547 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_42H.csv
+2026-04-15 21:58:55,547 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_42H.log
+2026-04-15 22:06:39,747 | ERROR | Notebook zlyhal: ./prediction_DST+2_42H.ipynb
+2026-04-15 22:06:39,747 | ERROR | Návratový kód: 1
+2026-04-15 22:06:39,748 | ERROR | Trvanie: 0:07:44.199570
+2026-04-15 22:06:39,750 | INFO | [15/48] Spúšťam notebook: ./prediction_DST+2_48H.ipynb
+2026-04-15 22:06:39,750 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_48H.csv
+2026-04-15 22:06:39,750 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+2_48H.log
+2026-04-15 22:14:21,303 | ERROR | Notebook zlyhal: ./prediction_DST+2_48H.ipynb
+2026-04-15 22:14:21,303 | ERROR | Návratový kód: 1
+2026-04-15 22:14:21,303 | ERROR | Trvanie: 0:07:41.552062
+2026-04-15 22:14:21,310 | INFO | [16/48] Preskakujem, output už existuje: prediction_DST+2_6H.ipynb
+2026-04-15 22:14:21,310 | INFO | Existujúci CSV: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+2_LSTM_6H.csv
+2026-04-15 22:14:21,311 | INFO | [17/48] Spúšťam notebook: ./prediction_DST+3_12H.ipynb
+2026-04-15 22:14:21,311 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_12H.csv
+2026-04-15 22:14:21,311 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_12H.log
+2026-04-15 22:22:42,641 | ERROR | Notebook zlyhal: ./prediction_DST+3_12H.ipynb
+2026-04-15 22:22:42,642 | ERROR | Návratový kód: 1
+2026-04-15 22:22:42,642 | ERROR | Trvanie: 0:08:21.329689
+2026-04-15 22:22:42,644 | INFO | [18/48] Spúšťam notebook: ./prediction_DST+3_18H.ipynb
+2026-04-15 22:22:42,644 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_18H.csv
+2026-04-15 22:22:42,645 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_18H.log
+2026-04-15 22:31:16,968 | ERROR | Notebook zlyhal: ./prediction_DST+3_18H.ipynb
+2026-04-15 22:31:16,969 | ERROR | Návratový kód: 1
+2026-04-15 22:31:16,969 | ERROR | Trvanie: 0:08:34.323383
+2026-04-15 22:31:16,971 | INFO | [19/48] Spúšťam notebook: ./prediction_DST+3_24H.ipynb
+2026-04-15 22:31:16,971 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_24H.csv
+2026-04-15 22:31:16,972 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_24H.log
+2026-04-15 22:40:33,528 | ERROR | Notebook zlyhal: ./prediction_DST+3_24H.ipynb
+2026-04-15 22:40:33,529 | ERROR | Návratový kód: 1
+2026-04-15 22:40:33,529 | ERROR | Trvanie: 0:09:16.556232
+2026-04-15 22:40:33,531 | INFO | [20/48] Spúšťam notebook: ./prediction_DST+3_30H.ipynb
+2026-04-15 22:40:33,532 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_30H.csv
+2026-04-15 22:40:33,532 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_30H.log
+2026-04-15 22:50:01,557 | ERROR | Notebook zlyhal: ./prediction_DST+3_30H.ipynb
+2026-04-15 22:50:01,557 | ERROR | Návratový kód: 1
+2026-04-15 22:50:01,558 | ERROR | Trvanie: 0:09:28.024591
+2026-04-15 22:50:01,560 | INFO | [21/48] Spúšťam notebook: ./prediction_DST+3_36H.ipynb
+2026-04-15 22:50:01,560 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_36H.csv
+2026-04-15 22:50:01,560 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_36H.log
+2026-04-15 23:00:11,305 | ERROR | Notebook zlyhal: ./prediction_DST+3_36H.ipynb
+2026-04-15 23:00:11,305 | ERROR | Návratový kód: 1
+2026-04-15 23:00:11,306 | ERROR | Trvanie: 0:10:09.744367
+2026-04-15 23:00:11,308 | INFO | [22/48] Spúšťam notebook: ./prediction_DST+3_42H.ipynb
+2026-04-15 23:00:11,308 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_42H.csv
+2026-04-15 23:00:11,309 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_42H.log
+2026-04-15 23:10:33,689 | ERROR | Notebook zlyhal: ./prediction_DST+3_42H.ipynb
+2026-04-15 23:10:33,689 | ERROR | Návratový kód: 1
+2026-04-15 23:10:33,689 | ERROR | Trvanie: 0:10:22.379726
+2026-04-15 23:10:33,691 | INFO | [23/48] Spúšťam notebook: ./prediction_DST+3_48H.ipynb
+2026-04-15 23:10:33,692 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_48H.csv
+2026-04-15 23:10:33,692 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_48H.log
+2026-04-15 23:21:34,614 | ERROR | Notebook zlyhal: ./prediction_DST+3_48H.ipynb
+2026-04-15 23:21:34,615 | ERROR | Návratový kód: 1
+2026-04-15 23:21:34,615 | ERROR | Trvanie: 0:11:00.922002
+2026-04-15 23:21:34,617 | INFO | [24/48] Spúšťam notebook: ./prediction_DST+3_6H.ipynb
+2026-04-15 23:21:34,617 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+3_LSTM_6H.csv
+2026-04-15 23:21:34,617 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+3_6H.log
+2026-04-15 23:29:40,821 | ERROR | Notebook zlyhal: ./prediction_DST+3_6H.ipynb
+2026-04-15 23:29:40,822 | ERROR | Návratový kód: 1
+2026-04-15 23:29:40,822 | ERROR | Trvanie: 0:08:06.203874
+2026-04-15 23:29:40,824 | INFO | [25/48] Spúšťam notebook: ./prediction_DST+4_12H.ipynb
+2026-04-15 23:29:40,824 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_12H.csv
+2026-04-15 23:29:40,825 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_12H.log
+2026-04-15 23:38:15,129 | ERROR | Notebook zlyhal: ./prediction_DST+4_12H.ipynb
+2026-04-15 23:38:15,129 | ERROR | Návratový kód: 1
+2026-04-15 23:38:15,129 | ERROR | Trvanie: 0:08:34.303478
+2026-04-15 23:38:15,131 | INFO | [26/48] Spúšťam notebook: ./prediction_DST+4_18H.ipynb
+2026-04-15 23:38:15,132 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_18H.csv
+2026-04-15 23:38:15,132 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_18H.log
+2026-04-15 23:47:19,962 | ERROR | Notebook zlyhal: ./prediction_DST+4_18H.ipynb
+2026-04-15 23:47:19,963 | ERROR | Návratový kód: 1
+2026-04-15 23:47:19,963 | ERROR | Trvanie: 0:09:04.830147
+2026-04-15 23:47:19,965 | INFO | [27/48] Spúšťam notebook: ./prediction_DST+4_24H.ipynb
+2026-04-15 23:47:19,965 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_24H.csv
+2026-04-15 23:47:19,965 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_24H.log
+2026-04-15 23:56:31,614 | ERROR | Notebook zlyhal: ./prediction_DST+4_24H.ipynb
+2026-04-15 23:56:31,614 | ERROR | Návratový kód: 1
+2026-04-15 23:56:31,615 | ERROR | Trvanie: 0:09:11.648639
+2026-04-15 23:56:31,616 | INFO | [28/48] Spúšťam notebook: ./prediction_DST+4_30H.ipynb
+2026-04-15 23:56:31,616 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_30H.csv
+2026-04-15 23:56:31,617 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_30H.log
+2026-04-16 00:06:20,017 | ERROR | Notebook zlyhal: ./prediction_DST+4_30H.ipynb
+2026-04-16 00:06:20,018 | ERROR | Návratový kód: 1
+2026-04-16 00:06:20,018 | ERROR | Trvanie: 0:09:48.400559
+2026-04-16 00:06:20,020 | INFO | [29/48] Spúšťam notebook: ./prediction_DST+4_36H.ipynb
+2026-04-16 00:06:20,020 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_36H.csv
+2026-04-16 00:06:20,020 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_36H.log
+2026-04-16 00:16:12,979 | ERROR | Notebook zlyhal: ./prediction_DST+4_36H.ipynb
+2026-04-16 00:16:12,979 | ERROR | Návratový kód: 1
+2026-04-16 00:16:12,980 | ERROR | Trvanie: 0:09:52.958251
+2026-04-16 00:16:12,981 | INFO | [30/48] Spúšťam notebook: ./prediction_DST+4_42H.ipynb
+2026-04-16 00:16:12,982 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_42H.csv
+2026-04-16 00:16:12,982 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_42H.log
+2026-04-16 00:26:37,898 | ERROR | Notebook zlyhal: ./prediction_DST+4_42H.ipynb
+2026-04-16 00:26:37,898 | ERROR | Návratový kód: 1
+2026-04-16 00:26:37,898 | ERROR | Trvanie: 0:10:24.914916
+2026-04-16 00:26:37,900 | INFO | [31/48] Spúšťam notebook: ./prediction_DST+4_48H.ipynb
+2026-04-16 00:26:37,900 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_48H.csv
+2026-04-16 00:26:37,901 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_48H.log
+2026-04-16 00:37:39,430 | ERROR | Notebook zlyhal: ./prediction_DST+4_48H.ipynb
+2026-04-16 00:37:39,430 | ERROR | Návratový kód: 1
+2026-04-16 00:37:39,430 | ERROR | Trvanie: 0:11:01.528707
+2026-04-16 00:37:39,432 | INFO | [32/48] Spúšťam notebook: ./prediction_DST+4_6H.ipynb
+2026-04-16 00:37:39,433 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+4_LSTM_6H.csv
+2026-04-16 00:37:39,433 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+4_6H.log
+2026-04-16 00:45:36,263 | ERROR | Notebook zlyhal: ./prediction_DST+4_6H.ipynb
+2026-04-16 00:45:36,264 | ERROR | Návratový kód: 1
+2026-04-16 00:45:36,264 | ERROR | Trvanie: 0:07:56.830360
+2026-04-16 00:45:36,266 | INFO | [33/48] Spúšťam notebook: ./prediction_DST+5_12H.ipynb
+2026-04-16 00:45:36,266 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_12H.csv
+2026-04-16 00:45:36,267 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_12H.log
+2026-04-16 00:54:10,819 | ERROR | Notebook zlyhal: ./prediction_DST+5_12H.ipynb
+2026-04-16 00:54:10,820 | ERROR | Návratový kód: 1
+2026-04-16 00:54:10,820 | ERROR | Trvanie: 0:08:34.552300
+2026-04-16 00:54:10,822 | INFO | [34/48] Spúšťam notebook: ./prediction_DST+5_18H.ipynb
+2026-04-16 00:54:10,822 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_18H.csv
+2026-04-16 00:54:10,822 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_18H.log
+2026-04-16 01:03:04,261 | ERROR | Notebook zlyhal: ./prediction_DST+5_18H.ipynb
+2026-04-16 01:03:04,262 | ERROR | Návratový kód: 1
+2026-04-16 01:03:04,262 | ERROR | Trvanie: 0:08:53.438696
+2026-04-16 01:03:04,264 | INFO | [35/48] Spúšťam notebook: ./prediction_DST+5_24H.ipynb
+2026-04-16 01:03:04,264 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_24H.csv
+2026-04-16 01:03:04,264 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_24H.log
+2026-04-16 01:12:23,394 | ERROR | Notebook zlyhal: ./prediction_DST+5_24H.ipynb
+2026-04-16 01:12:23,395 | ERROR | Návratový kód: 1
+2026-04-16 01:12:23,395 | ERROR | Trvanie: 0:09:19.129444
+2026-04-16 01:12:23,397 | INFO | [36/48] Spúšťam notebook: ./prediction_DST+5_30H.ipynb
+2026-04-16 01:12:23,397 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_30H.csv
+2026-04-16 01:12:23,398 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_30H.log
+2026-04-16 01:21:58,481 | ERROR | Notebook zlyhal: ./prediction_DST+5_30H.ipynb
+2026-04-16 01:21:58,482 | ERROR | Návratový kód: 1
+2026-04-16 01:21:58,482 | ERROR | Trvanie: 0:09:35.083203
+2026-04-16 01:21:58,483 | INFO | [37/48] Spúšťam notebook: ./prediction_DST+5_36H.ipynb
+2026-04-16 01:21:58,484 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_36H.csv
+2026-04-16 01:21:58,484 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_36H.log
+2026-04-16 01:31:53,033 | ERROR | Notebook zlyhal: ./prediction_DST+5_36H.ipynb
+2026-04-16 01:31:53,034 | ERROR | Návratový kód: 1
+2026-04-16 01:31:53,034 | ERROR | Trvanie: 0:09:54.549153
+2026-04-16 01:31:53,036 | INFO | [38/48] Spúšťam notebook: ./prediction_DST+5_42H.ipynb
+2026-04-16 01:31:53,036 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_42H.csv
+2026-04-16 01:31:53,037 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_42H.log
+2026-04-16 01:42:08,157 | ERROR | Notebook zlyhal: ./prediction_DST+5_42H.ipynb
+2026-04-16 01:42:08,157 | ERROR | Návratový kód: 1
+2026-04-16 01:42:08,157 | ERROR | Trvanie: 0:10:15.119769
+2026-04-16 01:42:08,159 | INFO | [39/48] Spúšťam notebook: ./prediction_DST+5_48H.ipynb
+2026-04-16 01:42:08,160 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_48H.csv
+2026-04-16 01:42:08,160 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_48H.log
+2026-04-16 01:52:52,412 | ERROR | Notebook zlyhal: ./prediction_DST+5_48H.ipynb
+2026-04-16 01:52:52,413 | ERROR | Návratový kód: 1
+2026-04-16 01:52:52,413 | ERROR | Trvanie: 0:10:44.251990
+2026-04-16 01:52:52,415 | INFO | [40/48] Spúšťam notebook: ./prediction_DST+5_6H.ipynb
+2026-04-16 01:52:52,415 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+5_LSTM_6H.csv
+2026-04-16 01:52:52,415 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+5_6H.log
+2026-04-16 02:00:52,837 | ERROR | Notebook zlyhal: ./prediction_DST+5_6H.ipynb
+2026-04-16 02:00:52,837 | ERROR | Návratový kód: 1
+2026-04-16 02:00:52,838 | ERROR | Trvanie: 0:08:00.421537
+2026-04-16 02:00:52,840 | INFO | [41/48] Spúšťam notebook: ./prediction_DST+6_12H.ipynb
+2026-04-16 02:00:52,840 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_12H.csv
+2026-04-16 02:00:52,841 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_12H.log
+2026-04-16 02:09:16,401 | ERROR | Notebook zlyhal: ./prediction_DST+6_12H.ipynb
+2026-04-16 02:09:16,402 | ERROR | Návratový kód: 1
+2026-04-16 02:09:16,402 | ERROR | Trvanie: 0:08:23.560430
+2026-04-16 02:09:16,404 | INFO | [42/48] Spúšťam notebook: ./prediction_DST+6_18H.ipynb
+2026-04-16 02:09:16,404 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_18H.csv
+2026-04-16 02:09:16,405 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_18H.log
+2026-04-16 02:18:06,935 | ERROR | Notebook zlyhal: ./prediction_DST+6_18H.ipynb
+2026-04-16 02:18:06,936 | ERROR | Návratový kód: 1
+2026-04-16 02:18:06,936 | ERROR | Trvanie: 0:08:50.530115
+2026-04-16 02:18:06,938 | INFO | [43/48] Spúšťam notebook: ./prediction_DST+6_24H.ipynb
+2026-04-16 02:18:06,938 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_24H.csv
+2026-04-16 02:18:06,939 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_24H.log
+2026-04-16 02:27:15,428 | ERROR | Notebook zlyhal: ./prediction_DST+6_24H.ipynb
+2026-04-16 02:27:15,428 | ERROR | Návratový kód: 1
+2026-04-16 02:27:15,429 | ERROR | Trvanie: 0:09:08.488881
+2026-04-16 02:27:15,430 | INFO | [44/48] Spúšťam notebook: ./prediction_DST+6_30H.ipynb
+2026-04-16 02:27:15,431 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_30H.csv
+2026-04-16 02:27:15,431 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_30H.log
+2026-04-16 02:37:16,697 | ERROR | Notebook zlyhal: ./prediction_DST+6_30H.ipynb
+2026-04-16 02:37:16,697 | ERROR | Návratový kód: 1
+2026-04-16 02:37:16,698 | ERROR | Trvanie: 0:10:01.265659
+2026-04-16 02:37:16,699 | INFO | [45/48] Spúšťam notebook: ./prediction_DST+6_36H.ipynb
+2026-04-16 02:37:16,699 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_36H.csv
+2026-04-16 02:37:16,700 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_36H.log
+2026-04-16 02:47:23,052 | ERROR | Notebook zlyhal: ./prediction_DST+6_36H.ipynb
+2026-04-16 02:47:23,052 | ERROR | Návratový kód: 1
+2026-04-16 02:47:23,053 | ERROR | Trvanie: 0:10:06.352148
+2026-04-16 02:47:23,055 | INFO | [46/48] Spúšťam notebook: ./prediction_DST+6_42H.ipynb
+2026-04-16 02:47:23,055 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_42H.csv
+2026-04-16 02:47:23,055 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_42H.log
+2026-04-16 02:58:02,267 | ERROR | Notebook zlyhal: ./prediction_DST+6_42H.ipynb
+2026-04-16 02:58:02,267 | ERROR | Návratový kód: 1
+2026-04-16 02:58:02,268 | ERROR | Trvanie: 0:10:39.211044
+2026-04-16 02:58:02,269 | INFO | [47/48] Spúšťam notebook: ./prediction_DST+6_48H.ipynb
+2026-04-16 02:58:02,270 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_48H.csv
+2026-04-16 02:58:02,270 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_48H.log
+2026-04-16 03:08:52,366 | ERROR | Notebook zlyhal: ./prediction_DST+6_48H.ipynb
+2026-04-16 03:08:52,366 | ERROR | Návratový kód: 1
+2026-04-16 03:08:52,366 | ERROR | Trvanie: 0:10:50.095504
+2026-04-16 03:08:52,368 | INFO | [48/48] Spúšťam notebook: ./prediction_DST+6_6H.ipynb
+2026-04-16 03:08:52,368 | INFO | Očakávaný output: ../../../vizualizacie/BZ_GSM/prediction_comparison_DST+6_LSTM_6H.csv
+2026-04-16 03:08:52,368 | INFO | Log notebooku: run_logs/20260415_200327_prediction_DST+6_6H.log
+2026-04-16 03:16:49,789 | ERROR | Notebook zlyhal: ./prediction_DST+6_6H.ipynb
+2026-04-16 03:16:49,790 | ERROR | Návratový kód: 1
+2026-04-16 03:16:49,790 | ERROR | Trvanie: 0:07:57.420460
+2026-04-16 03:16:49,790 | INFO | === ZHRNUTIE ===
+2026-04-16 03:16:49,790 | INFO | Spustené notebooky: 8
+2026-04-16 03:16:49,791 | INFO | Preskočené notebooky: 1
+2026-04-16 03:16:49,791 | INFO | Zlyhané notebooky: 39
+2026-04-16 03:16:49,791 | INFO | Preskočené:
+2026-04-16 03:16:49,792 | INFO | - ./prediction_DST+2_6H.ipynb
+2026-04-16 03:16:49,792 | WARNING | Zlyhané:
+2026-04-16 03:16:49,792 | WARNING | - ./prediction_DST+2_12H.ipynb
+2026-04-16 03:16:49,792 | WARNING | - ./prediction_DST+2_18H.ipynb
+2026-04-16 03:16:49,792 | WARNING | - ./prediction_DST+2_24H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+2_30H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+2_36H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+2_42H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+2_48H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+3_12H.ipynb
+2026-04-16 03:16:49,793 | WARNING | - ./prediction_DST+3_18H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_24H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_30H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_36H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_42H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_48H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+3_6H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+4_12H.ipynb
+2026-04-16 03:16:49,794 | WARNING | - ./prediction_DST+4_18H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_24H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_30H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_36H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_42H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_48H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+4_6H.ipynb
+2026-04-16 03:16:49,795 | WARNING | - ./prediction_DST+5_12H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_18H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_24H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_30H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_36H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_42H.ipynb
+2026-04-16 03:16:49,796 | WARNING | - ./prediction_DST+5_48H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+5_6H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_12H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_18H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_24H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_30H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_36H.ipynb
+2026-04-16 03:16:49,797 | WARNING | - ./prediction_DST+6_42H.ipynb
+2026-04-16 03:16:49,798 | WARNING | - ./prediction_DST+6_48H.ipynb
+2026-04-16 03:16:49,798 | WARNING | - ./prediction_DST+6_6H.ipynb
+2026-04-16 03:16:49,798 | WARNING | Batch spúšťanie ukončené s chybami.

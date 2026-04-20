@@ -1,0 +1,8 @@
+nohup: ignoring input
+2026-04-16 16:05:37,634 | INFO | Začínam batch spúšťanie notebookov.
+2026-04-16 16:05:37,634 | INFO | Počet nájdených notebookov: 48
+2026-04-16 16:05:37,635 | INFO | Hlavný log: run_logs/run_all_20260416_160537.log
+2026-04-16 16:05:37,635 | INFO | Počet úspešných notebookov z predošlého logu: 0
+2026-04-16 16:05:37,635 | INFO | [1/48] Spúšťam notebook: ./prediction_DST+1_12H.ipynb
+2026-04-16 16:05:37,636 | INFO | Log notebooku: run_logs/20260416_160537_prediction_DST+1_12H.log
+2026-04-16 16:05:37,637 | INFO | [1/48] Pokus 1/4: prediction_DST+1_12H.ipynb
