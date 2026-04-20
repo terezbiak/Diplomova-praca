@@ -1,12 +1,12 @@
-# Prediktívne modely v spracovaní dát z oblasti kozmického počasia
+# Metódy strojového učenia pre včasnú predikciu geomagnetických búrok
 
 Program: Hospodárska informatika
-Vypracovala: Terézia Drengubiaková
-Bakalárska práca: : Prediktívne modely v spracovaní dát z oblasti kozmického počasia
+Vypracovala: Bc. Terézia Drengubiaková
+Diplomová práca: : Metódy strojového učenia pre včasnú predikciu geomagnetických búrok
 Vedúci diplomovej práce: doc. Ing. Peter Butka, PhD.
 Konzultanti: Ing. Viera Krešňáková, PhD., RNDr. Šimon Mackovjak, PhD.
 
-V tomto repozitári nájdete datasety a kódy, ktoré sme použili pri tvorení bakalárskej práce. 
+V tomto repozitári nájdete datasety, modely a kódy, ktoré sme použili pri tvorení diplomovej práce. 
 
 Pred prvým spustením programu je dôležité nainštalovať príslušné knižnice. Možno tak urobiť v prostredí, ktoré podporuje .ipynb súbory. Knižnice nainštalujeme nasledovným príkazom:
 ```bash
@@ -18,14 +18,14 @@ Pred prvým spustením programu je dôležité nainštalovať príslušné kniž
 Zoznam balíkov potrebný na spustenie kódu je definovaný v každom zdrojovom kóde. Pred samotným spustením kódu je nutné použiť príslušný dataset. Repozitár obsahuje kód:
 - prípravy dát (1_priprava_a_rozdelenie_dat)
 - rozdelenia dát (1_priprava_a_rozdelenie_dat)
-- korelačnej a F-skóre analýzy (2_corr_a_f-skore_analyza)
-- modelovanie - obsahuje všetky modely, ktorými sme sa v tejto práci zaoberali, taktiež ich vyhodnotenie pomocou metrík (3_modelovanie)
+- modelovanie - obsahuje všetky modely, ktorými sme sa v tejto práci zaoberali, taktiež ich vyhodnotenie pomocou metrík (2_modelovanie)
+- vizualizácie - obsahuje kód ku spusteniu vizualizácií (3_vizualizacie)
 
 Dostupné datasety sa nachádzajú v priečinku 0_datasety:
-- allDST_omni.csv
-- omni_full.csv
+- events_omni.csv
 - test_omni.csv
 - train_omni.csv
+- dataset so stiahnutými dátami z HAPI sa nachádza v priečinku 1_priprava_a_rozdelenie_dat - DP_omni.csv
 
 
 
